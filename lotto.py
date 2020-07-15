@@ -43,6 +43,3 @@ The jackpot was:
 {results}
 {end_str}
 """
-
-
-print(lotto())
